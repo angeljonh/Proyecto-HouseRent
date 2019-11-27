@@ -1,5 +1,5 @@
 <div class="card">
-    <div class="card-header">Cargar Archivos</div>
+    <div class="card-header">Cargar imagen</div>
     <div class="card-body">
         {!! Form::open(['route' => 'archivo.upload', 'files' => true]) !!}
             <div class="form-group">

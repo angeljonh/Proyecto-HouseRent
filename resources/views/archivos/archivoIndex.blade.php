@@ -1,5 +1,5 @@
 <div class="card">
-    <div class="card-header">Archivos Cargados</div>
+    <div class="card-header">Imagenes</div>
     <div class="card-body">
         <table class="table">
             <tr>
